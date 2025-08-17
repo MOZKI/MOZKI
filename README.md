@@ -39,5 +39,5 @@ more on the way....
 
 ---
 
-Keep pushing GNG! See you on top ˜¸˜
+Keep pushing GNG! 
 
