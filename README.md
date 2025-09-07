@@ -1,6 +1,6 @@
 <!-- Github Profile README - Zaki -->
 <h1 align="center"> Hiii There 👋🏻, I’m Zaki 👾</h1>
-<p align="center">I play with data, break things, and turn chaos into insights ◊¸◊</p>
+<p align="center"> Data Enthusiast ◊¸◊ </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOZKI/MOZKI/output/pacman-contribution-graph-dark.svg">
@@ -14,8 +14,7 @@
 - 🔍 Turning raw data into actionable insights for smarter business decisions
 - 📊 Build dashboards that (hopefully) don't break
 - 🧠 Currently sharpening my analytical skills through personal project... slowly, responsibly 
-- 🎯 On the next stop... I might learn Python (honestly excited about machine learning and all that stuff)
-
+- 🎯 On the next stop... I might learn Python
 
 ---
 
@@ -38,6 +37,4 @@
 more on the way.... 
 
 ---
-
-Keep pushing GNG! 
 
