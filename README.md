@@ -11,7 +11,8 @@
 
 🧩 **What I do**
 
-- 🔍 Turning raw data into actionable insights for smarter business decisions
+- 🕹️ Exploring datasets (especially in kaggle)
+- 🔍 Analyzing raw data into actionable insights 
 - 📊 Build dashboards that (hopefully) don't break
 - 🧠 Currently sharpening my analytical skills through personal project... slowly, responsibly 
 - 🎯 On the next stop... I might learn Python
