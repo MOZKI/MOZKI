@@ -9,17 +9,16 @@
 </picture>
 
 
-🧩 **What I do**
+**What I do**
 
-- 🕹️ Exploring datasets (especially in kaggle)
-- 🔍 Analyzing raw data into actionable insights 
-- 📊 Build dashboards that (hopefully) don't break
-- 🧠 Currently sharpening my analytical skills through personal project... slowly, responsibly 
-- 🎯 On the next stop... I might learn Python
+- > Exploring datasets (especially in kaggle)
+- > Analyzing raw data into actionable insights 
+- > Build dashboards that (hopefully) don't break
+- > Currently sharpening my analytical skills through personal project... slowly, responsibly 
 
 ---
 
-⚙️ **My Tools of Mayhem**
+**My Tools of Mayhem**
 <div align="left">
     <img width="50" height="50" alt="Screenshot 2025-08-06 at 21 17 57" src="https://github.com/user-attachments/assets/a4ceacb0-c10c-4aa6-bc41-69affa3a5877" />
     <img width="12" />
@@ -29,13 +28,11 @@
 
 ---
 
-🚀 **Stuff I've built**
+**Stuff I've built**
 
 | Project | What It Does |
 |--------|---------------|
 | 🛒 **Retail Store Analysis** | SQL + Tableau project to slice & dice sales data [click here](https://github.com/MOZKI/RETAIL-STORES-ANALYSIS) |
-
-more on the way.... 
 
 ---
 
