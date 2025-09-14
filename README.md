@@ -11,10 +11,10 @@
 
 **What I do**
 
-- > Exploring datasets (especially in kaggle)
-- > Analyzing raw data into actionable insights 
-- > Build dashboards that (hopefully) don't break
-- > Currently sharpening my analytical skills through personal project... slowly, responsibly 
+- Exploring datasets (especially in kaggle)
+- Analyzing raw data into actionable insights 
+- Build dashboards that (hopefully) don't break
+- Currently sharpening my analytical skills through personal project... slowly, responsibly 
 
 ---
 
