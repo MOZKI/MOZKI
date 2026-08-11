@@ -6,7 +6,7 @@
 
 ### 🤩 About Me
  
-Information Systems & Technology student in my 5th semester specializing in data engineering. I’ve built an end-to-end batch data pipeline, working with Airflow, dbt, and PostgreSQL as my core stack. I also have a solid grasp of data modeling and data quality practices, making sure the pipeline output is something people can actually rely on.
+Information Systems & Technology student (5th semester) specializing in data engineering. I’ve built an end-to-end batch data pipeline, working with Airflow, dbt, and PostgreSQL as my core stack. I also have a solid grasp of data modeling and data quality practices, making sure the pipeline output is something people can actually rely on.
 
 ### 🕹️ Tech Stack
 **Programming Languages**
