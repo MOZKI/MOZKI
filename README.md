@@ -4,12 +4,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MOZKI/MOZKI/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🤩 About Me
- 
-Information Systems & Technology student (5th semester) specializing in data engineering. I’ve built an end-to-end batch data pipeline, working with Airflow, dbt, and PostgreSQL as my core stack. I also have a solid grasp of data modeling and data quality practices, making sure the pipeline output is something people can actually rely on.
-
 ### 🕹️ Tech Stack
-**Programming Languages**
+**Programming Language**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
